@@ -1,0 +1,83 @@
+/* 
+.formpage{
+   
+    margin-top: 50px;
+    background-image: url("https://www.womenbuildingaustralia.com.au/sites/default/files/images/Poly_BG_Grad%20%281%29_0_1.png");
+    background-repeat: no-repeat;
+
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+.formcover{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 24px 24px 24px;
+    border-radius: 12px;
+    width: 400px;
+    margin: 10% 0 10% 0;
+    background-color: rgba(0, 0, 0, 0.171);
+    box-sizing: border-box;
+    
+}
+input{
+    background-color: rgb(255, 250, 240);
+    border-radius: 6px;
+    height: 24px;
+    width: 200px;
+    align-self: center;
+    border-color: rgb(18, 72, 90);
+    height: 30px;
+}
+label{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-self: center;
+    text-align: center;
+    margin-top:24px ; 
+    border: none;
+    border-radius: 10px;   
+}
+button:hover{
+    opacity: 50%;
+}
+button:disabled{
+    cursor: not-allowed;
+    background-color: rgb(240, 142, 240);
+}
+.buttonsubmit{
+    background-color: rgba(31, 149, 189, 0.425);
+}
+.regiterbtn{
+    background-color: rgba(226, 13, 13, 0.336);
+    align-self: center;
+    
+    
+}
+.linkclass{
+    color: aliceblue;
+    text-decoration: none;
+}
+.linkclass:hover{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+} */
